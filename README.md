@@ -11,6 +11,10 @@ Resources for Data Cloud Introduction session at Salesfoce Developer Sevilla Tra
 
 [Prepare to get certified on Trailhead](https://trailhead.salesforce.com/es/users/strailhead/trailmixes/prepare-for-your-data-cloud-consultant-credential)
 
+## Data Cloud Diagrams
+
+[Data Cloud Architect Diagrams](https://architect.salesforce.com/diagrams#template-gallery?Product+Area=Data+Cloud)
+
 ## For partners
 
 [Prepare to get certified on Partner Learning Camp](https://partnerlearningcamp.salesforce.com/s/browse-catalog?plc__recordId=jmgw0YzhR5F6WCboYWg721mFxGso91OOK2BrFGbWgDLX1kQg3LbxrSkB7DSq0v%2FT)
